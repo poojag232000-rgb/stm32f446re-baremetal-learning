@@ -9,7 +9,7 @@ This folder is organized so you can import it into Code Composer Studio as a bar
 - docs/        -> study notes
 
 ## Main files
-- src/main.c
+- src/main.c  <- MSP432E401Y LED blink example
 - src/startup.c
 - ld/linker.ld
 
